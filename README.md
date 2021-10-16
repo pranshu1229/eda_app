@@ -22,5 +22,3 @@ In Anaconda terminal run "streamlit run main.py" this command to run the project
 
 ![eda web app 4](https://user-images.githubusercontent.com/61036755/85920445-79b69900-b891-11ea-95c5-51bf756a8eb3.png)
 
-
-If you like this repo, please don't forget to give a ⭐.
